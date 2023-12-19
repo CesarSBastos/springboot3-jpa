@@ -1,4 +1,4 @@
-package com.bastos.course.resources;
+package com.bastos.course.internalresources;
 
 import com.bastos.course.entities.User;
 import org.springframework.http.ResponseEntity;
